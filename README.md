@@ -2,6 +2,9 @@
 
 A modern responsive landing page designed with clean UI, smooth layout, and seamless compatibility across desktop, tablet, and mobile devices.
 
+<img width="1899" height="978" alt="Screenshot 2026-05-16 203113" src="https://github.com/user-attachments/assets/b32a48d5-3435-4628-b55e-bbc0816faf43" />
+
+
 ## Features
 
 - Fully responsive design for desktop, tablet, and mobile
